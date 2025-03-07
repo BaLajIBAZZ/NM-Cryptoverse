@@ -16,9 +16,9 @@ Cryptoverse-Cryptocurrency-dashboard is an application that uses the coinGecko A
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/37292226/213191342-e3e97251-5fc1-48af-98c8-2b32fd2d827e.png" alt="lightMpde" width="400" >
-  <img src="https://user-images.githubusercontent.com/37292226/213191356-47781ea4-1193-4fd2-ae2d-458f23189d3f.PNG" alt="darkMode" width="400" >
- <img src="https://user-images.githubusercontent.com/37292226/213191359-94963288-af72-460a-9ee1-7f5bf11ad17d.PNG" alt="mobileResponsive" width="300">
+<img src="https://github.com/user-attachments/assets/2d30df58-9448-4e33-9871-48259b58365f.PNG" alt="lightMpde" width="400" >
+  <img src="https://github.com/user-attachments/assets/3bde2ecc-e83a-4327-b407-6e6c8022eb0c.PNG" alt="darkMode" width="400" >
+ <img src="https://github.com/user-attachments/assets/c806cf28-30de-4aff-8c93-c717bc63f84e.PNG" alt="BarChart" width="300">
  
 ## Technologies
 
